@@ -1,5 +1,6 @@
 from parser import parse_config
 import sys
+from render import render_maze
 
 
 def main():
